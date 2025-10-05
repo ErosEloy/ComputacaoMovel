@@ -13,8 +13,7 @@ fun main(){
     notaTestePratico = readLine()!!.toDouble()
 
     media = notaTesteTeorico*pesoTesteTeorico + notaTestePratico*pesoTestePratico
-
-
+    
     print("A sua média é: $media")
 
 }
